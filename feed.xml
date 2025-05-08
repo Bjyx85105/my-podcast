@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>Maria 的私人筆記播客</title>
+    <title>我的私人筆記播客</title>
     <link>https://drive.google.com</link>
     <description>個人語音筆記練習，不公開分享</description>
     <language>zh-TW</language>
 
     <item>
-      <title>三色拿鐵筆記語音</title>
-      <description>2025年4月的烘焙筆記：三色拿鐵奶凍製作與分層技巧</description>
+      <title>藝術筆記語音</title>
+      <description>2025年5月的藝術筆記：席勒</description>
       <enclosure url="https://drive.google.com/uc?export=download&id=17nMe3SrOQne6ZY4tnxa--Ko4Dmy2nGHw" length="1234567" type="audio/mpeg"/>
       <guid>20250426-latte</guid>
       <pubDate>Sat, 26 Apr 2025 12:00:00 +0800</pubDate>
